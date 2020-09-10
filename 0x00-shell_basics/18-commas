@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e `ls -a -p -m` '\n'
+ls -a -p -m
