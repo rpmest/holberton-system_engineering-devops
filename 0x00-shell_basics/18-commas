@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `ls -a -p -m --group-directories-first`-e \n
+echo -e `ls -a -p -m --group-directories-first` '\n'
